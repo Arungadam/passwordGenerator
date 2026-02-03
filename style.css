@@ -1,0 +1,55 @@
+body{
+    background-color:cornflowerblue;
+    text-align:center;
+    padding:10px;
+    background-image: url(https://t4.ftcdn.net/jpg/06/91/05/19/360_F_691051962_GFhQPOAXABmf7l706q89b2PFh6FnB1kI.jpg);
+     background-size: cover;       /* Ensures image covers entire screen */
+        background-position: center;  /* Keeps image centered */
+        background-repeat: no-repeat; /* Prevents tiling */
+        background-attachment: fixed;
+
+}
+.form{
+    background-color: aliceblue;
+    background-image: url(https://img.freepik.com/free-vector/blur-pink-blue-abstract-gradient-background-vector_53876-174836.jpg?semt=ais_hybrid&w=740&q=80);
+    padding:50px;
+    background-position: center;  /* Keeps image centered */
+        background-repeat: no-repeat; /* Prevents tiling */
+        background-attachment: fixed;
+    width: max-content;
+    text-align:center;
+    align-items: center;
+    border-radius: 1.7em;
+    margin: auto;
+    margin-top: auto;
+    box-shadow: 10px 10px 50px rgb(5, 114, 126);
+
+}
+button{
+    border-radius: 8px;
+    padding:4px;
+    color:midnightblue;
+    background-color: aquamarine;
+
+}
+input{
+    border-radius:8px;
+    padding:4px;
+    background-color: beige;
+}
+h1{
+    color:ivory;
+
+}
+h2{
+    background-color: darkgray;
+    width: auto;
+    margin:5px;
+}
+#recents{
+    background-color: cornsilk;
+    width:fit-content;
+    border-radius: 10px;
+    padding:4px;
+    margin:auto;
+}
